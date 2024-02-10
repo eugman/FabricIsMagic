@@ -3,7 +3,7 @@ The goal of this repo is to provide a fun way to learn Mcirosoft Fabric using Ma
 
 In order to get started, you'll need to set up a Fabic trial. Andy Leonard as a [blog post](https://andyleonard.blog/2023/11/start-fabric-free-trial/) on that.
 
-If you know nothing about Magic the gathering drafting, this video is an interesting view into the data.
+If you know nothing about Magic the gathering drafting, [this video](https://youtu.be/6y3zF5bTEsM) is an interesting view into the data.
 
 ## Data sources
 - [**MTGJSON**](https://mtgjson.com/). List of all cards. [MIT License](https://mtgjson.com/license/)
